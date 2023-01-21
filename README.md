@@ -1,4 +1,4 @@
-# bank-campaign
+# Bank Marketing Campaign
 
 Problem Statement:
 A bank wants to run a marketing campaign. It is getting data from various 3rd party sources. Before running the campaign it needs to process and clean the data. The data needs to be stored and processed in distributed way.
